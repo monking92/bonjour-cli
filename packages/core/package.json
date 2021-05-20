@@ -4,6 +4,9 @@
   "description": "bonjour-cli core",
   "author": "sunlei <sunlei@ihomefnt.com>",
   "homepage": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "ISC",
   "main": "lib/core.js",
   "directories": {

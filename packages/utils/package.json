@@ -4,6 +4,9 @@
   "description": "boujour-cli utils",
   "author": "sunlei <sunlei@ihomefnt.com>",
   "homepage": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "ISC",
   "main": "lib/utils.js",
   "directories": {
